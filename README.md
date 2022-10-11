@@ -1,0 +1,1 @@
+T24, 1Xpress and CRM working automation for effective work flow, Time and Data saving. Is a project that will bring job smartness to employee and make challenging of slow network, delay in Time and and also customer quick attention resolvation.
